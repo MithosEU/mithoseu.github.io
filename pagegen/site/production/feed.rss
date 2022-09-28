@@ -2,7 +2,7 @@
 <rss version="2.0">
 <channel>
 <title></title>
-<link>https://mithoseu.github.io/pagegen/site/production//feed.rss</link>
+<link>/pagegen/site/production//feed.rss</link>
 <description></description>
 <generator>Pagegen - pagegen.phnd.net</generator>
 </channel>
