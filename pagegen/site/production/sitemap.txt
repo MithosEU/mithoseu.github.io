@@ -1,9 +1,0 @@
-/pagegen/site/production//index.html
-/pagegen/site/production//restructuredtext-examples.html
-/pagegen/site/production//vegetables/index.html
-/pagegen/site/production//vegetables/cucumber.html
-/pagegen/site/production//vegetables/beet.html
-/pagegen/site/production//fruit/index.html
-/pagegen/site/production//fruit/pear.html
-/pagegen/site/production//fruit/banana.html
-/pagegen/site/production//contact-us.html
